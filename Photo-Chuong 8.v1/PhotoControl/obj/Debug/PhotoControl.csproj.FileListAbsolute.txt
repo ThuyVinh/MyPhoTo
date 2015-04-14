@@ -1,0 +1,11 @@
+E:\LTNC\Photo\PhotoControl\obj\Debug\PhotoControl.csprojResolveAssemblyReference.cache
+E:\LTNC\Photo\PhotoControl\obj\Debug\Manning.PhotoControl.PixelDialog.resources
+E:\LTNC\Photo\PhotoControl\obj\Debug\PhotoControl.csproj.GenerateResource.Cache
+E:\LTNC\Photo\PhotoControl\bin\Debug\PhotoAlbum.dll
+E:\LTNC\Photo\PhotoControl\bin\Debug\PhotoAlbum.pdb
+E:\LTNC\Photo\PhotoControl\bin\Debug\PhotoControl.dll
+E:\LTNC\Photo\PhotoControl\bin\Debug\PhotoControl.pdb
+E:\LTNC\Photo\PhotoControl\obj\Debug\Manning.PhotoControl.BaseEditDialog.resources
+E:\LTNC\Photo\PhotoControl\obj\Debug\Manning.PhotoControl.PhotoEditDialog.resources
+E:\LTNC\Photo\PhotoControl\obj\Debug\PhotoControl.dll
+E:\LTNC\Photo\PhotoControl\obj\Debug\PhotoControl.pdb

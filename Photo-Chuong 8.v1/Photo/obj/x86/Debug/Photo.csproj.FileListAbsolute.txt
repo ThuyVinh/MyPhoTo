@@ -33,9 +33,6 @@ E:\LTNC\Photo\Photo\obj\x86\Debug\Photo.Properties.Resources.resources
 E:\LTNC\Photo\Photo\obj\x86\Debug\Photo.csproj.GenerateResource.Cache
 E:\LTNC\Photo\Photo\bin\Debug\PhotoAlbum.dll
 E:\LTNC\Photo\Photo\bin\Debug\PhotoAlbum.pdb
-C:\Users\Public\Pictures\Sample Pictures\New folder\Photo-Chuong7\Photo\obj\x86\Debug\Photo.exe
-C:\Users\Public\Pictures\Sample Pictures\New folder\Photo-Chuong7\Photo\obj\x86\Debug\Photo.pdb
-C:\Users\Public\Pictures\Sample Pictures\New folder\Photo-Chuong7\Photo\obj\x86\Debug\Photo.csprojResolveAssemblyReference.cache
-C:\Users\Public\Pictures\Sample Pictures\New folder\Photo-Chuong7\Photo\obj\x86\Debug\Photo.frMain.resources
-C:\Users\Public\Pictures\Sample Pictures\New folder\Photo-Chuong7\Photo\obj\x86\Debug\Photo.Properties.Resources.resources
-C:\Users\Public\Pictures\Sample Pictures\New folder\Photo-Chuong7\Photo\obj\x86\Debug\Photo.csproj.GenerateResource.Cache
+E:\LTNC\Photo\Photo\bin\Debug\Photo.exe.config
+E:\LTNC\Photo\Photo\bin\Debug\PhotoControl.dll
+E:\LTNC\Photo\Photo\bin\Debug\PhotoControl.pdb
