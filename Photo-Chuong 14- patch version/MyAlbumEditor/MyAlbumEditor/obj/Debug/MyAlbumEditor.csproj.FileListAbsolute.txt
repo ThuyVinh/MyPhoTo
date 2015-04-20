@@ -1,0 +1,32 @@
+E:\MyAlbumEditor\MyAlbumEditor\bin\Debug\MyAlbumEditor.exe.config
+E:\MyAlbumEditor\MyAlbumEditor\bin\Debug\MyAlbumEditor.exe
+E:\MyAlbumEditor\MyAlbumEditor\bin\Debug\MyAlbumEditor.pdb
+E:\MyAlbumEditor\MyAlbumEditor\bin\Debug\PhotoAlbum.dll
+E:\MyAlbumEditor\MyAlbumEditor\bin\Debug\PhotoControl.dll
+E:\MyAlbumEditor\MyAlbumEditor\bin\Debug\PhotoAlbum.pdb
+E:\MyAlbumEditor\MyAlbumEditor\bin\Debug\PhotoControl.pdb
+E:\MyAlbumEditor\MyAlbumEditor\obj\Debug\MyAlbumEditor.csprojResolveAssemblyReference.cache
+E:\MyAlbumEditor\MyAlbumEditor\obj\Debug\MyAlbumEditor.EditorForm.resources
+E:\MyAlbumEditor\MyAlbumEditor\obj\Debug\MyAlbumEditor.Properties.Resources.resources
+E:\MyAlbumEditor\MyAlbumEditor\obj\Debug\MyAlbumEditor.csproj.GenerateResource.Cache
+E:\MyAlbumEditor\MyAlbumEditor\obj\Debug\MyAlbumEditor.exe
+E:\MyAlbumEditor\MyAlbumEditor\obj\Debug\MyAlbumEditor.pdb
+E:\MyAlbumEditor\MyAlbumEditor\obj\Debug\MyAlbumEditor.AlbumClendar.resources
+E:\MyAlbumEditor\MyAlbumEditor\obj\Debug\MyAlbumEditor.AlbumImage.resources
+E:\MyAlbumEditor\MyAlbumEditor\obj\Debug\MyAlbumEditor.WorkerProgressDialog.resources
+C:\Users\HP\Desktop\Photo-Chuong 12+13\MyAlbumEditor\MyAlbumEditor\bin\Debug\MyAlbumEditor.exe.config
+C:\Users\HP\Desktop\Photo-Chuong 12+13\MyAlbumEditor\MyAlbumEditor\obj\Debug\MyAlbumEditor.exe
+C:\Users\HP\Desktop\Photo-Chuong 12+13\MyAlbumEditor\MyAlbumEditor\obj\Debug\MyAlbumEditor.pdb
+C:\Users\HP\Desktop\Photo-Chuong 12+13\MyAlbumEditor\MyAlbumEditor\bin\Debug\MyAlbumEditor.exe
+C:\Users\HP\Desktop\Photo-Chuong 12+13\MyAlbumEditor\MyAlbumEditor\bin\Debug\MyAlbumEditor.pdb
+C:\Users\HP\Desktop\Photo-Chuong 12+13\MyAlbumEditor\MyAlbumEditor\bin\Debug\PhotoAlbum.dll
+C:\Users\HP\Desktop\Photo-Chuong 12+13\MyAlbumEditor\MyAlbumEditor\bin\Debug\PhotoControl.dll
+C:\Users\HP\Desktop\Photo-Chuong 12+13\MyAlbumEditor\MyAlbumEditor\bin\Debug\PhotoAlbum.pdb
+C:\Users\HP\Desktop\Photo-Chuong 12+13\MyAlbumEditor\MyAlbumEditor\bin\Debug\PhotoControl.pdb
+C:\Users\HP\Desktop\Photo-Chuong 12+13\MyAlbumEditor\MyAlbumEditor\obj\Debug\MyAlbumEditor.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\Photo-Chuong 12+13\MyAlbumEditor\MyAlbumEditor\obj\Debug\MyAlbumEditor.AlbumClendar.resources
+C:\Users\HP\Desktop\Photo-Chuong 12+13\MyAlbumEditor\MyAlbumEditor\obj\Debug\MyAlbumEditor.AlbumImage.resources
+C:\Users\HP\Desktop\Photo-Chuong 12+13\MyAlbumEditor\MyAlbumEditor\obj\Debug\MyAlbumEditor.EditorForm.resources
+C:\Users\HP\Desktop\Photo-Chuong 12+13\MyAlbumEditor\MyAlbumEditor\obj\Debug\MyAlbumEditor.Properties.Resources.resources
+C:\Users\HP\Desktop\Photo-Chuong 12+13\MyAlbumEditor\MyAlbumEditor\obj\Debug\MyAlbumEditor.WorkerProgressDialog.resources
+C:\Users\HP\Desktop\Photo-Chuong 12+13\MyAlbumEditor\MyAlbumEditor\obj\Debug\MyAlbumEditor.csproj.GenerateResource.Cache
