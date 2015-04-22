@@ -88,3 +88,6 @@ C:\Users\HP\Desktop\Photo-Chuong 12+13\Photo\obj\x86\Debug\Photo.csprojResolveAs
 C:\Users\HP\Desktop\Photo-Chuong 12+13\Photo\obj\x86\Debug\Photo.frMain.resources
 C:\Users\HP\Desktop\Photo-Chuong 12+13\Photo\obj\x86\Debug\Photo.Properties.Resources.resources
 C:\Users\HP\Desktop\Photo-Chuong 12+13\Photo\obj\x86\Debug\Photo.csproj.GenerateResource.Cache
+C:\Users\Public\Pictures\Sample Pictures\New folder\Photo-Chuong 14- patch version\Photo\bin\Debug\Photo.exe.config
+C:\Users\Public\Pictures\Sample Pictures\New folder\Photo-Chuong 14- patch version\Photo\obj\x86\Debug\Photo.exe
+C:\Users\Public\Pictures\Sample Pictures\New folder\Photo-Chuong 14- patch version\Photo\obj\x86\Debug\Photo.pdb

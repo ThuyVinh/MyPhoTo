@@ -1,0 +1,16 @@
+E:\LTNC\ScrollablePictureBox Test\ScrollablePictureBox Test\bin\Debug\ScrollablePictureBox Test.exe.config
+E:\LTNC\ScrollablePictureBox Test\ScrollablePictureBox Test\bin\Debug\ScrollablePictureBox Test.exe
+E:\LTNC\ScrollablePictureBox Test\ScrollablePictureBox Test\bin\Debug\ScrollablePictureBox Test.pdb
+E:\LTNC\ScrollablePictureBox Test\ScrollablePictureBox Test\obj\Debug\ScrollablePictureBox Test.csprojResolveAssemblyReference.cache
+E:\LTNC\ScrollablePictureBox Test\ScrollablePictureBox Test\obj\Debug\ScrollablePictureBox_Test.Properties.Resources.resources
+E:\LTNC\ScrollablePictureBox Test\ScrollablePictureBox Test\obj\Debug\ScrollablePictureBox_Test.TestForm.resources
+E:\LTNC\ScrollablePictureBox Test\ScrollablePictureBox Test\obj\Debug\ScrollablePictureBox Test.csproj.GenerateResource.Cache
+E:\LTNC\ScrollablePictureBox Test\ScrollablePictureBox Test\obj\Debug\ScrollablePictureBox Test.exe
+E:\LTNC\ScrollablePictureBox Test\ScrollablePictureBox Test\obj\Debug\ScrollablePictureBox Test.pdb
+E:\LTNC\ScrollablePictureBox Test\ScrollablePictureBox Test\bin\Debug\MyPhotoControls.dll
+E:\LTNC\ScrollablePictureBox Test\ScrollablePictureBox Test\bin\Debug\PhotoAlbum.dll
+E:\LTNC\ScrollablePictureBox Test\ScrollablePictureBox Test\bin\Debug\MyPhotoControls.pdb
+E:\LTNC\ScrollablePictureBox Test\ScrollablePictureBox Test\bin\Debug\PhotoAlbum.pdb
+E:\LTNC\ScrollablePictureBox Test - chuong 17\ScrollablePictureBox Test\bin\Debug\ScrollablePictureBox Test.exe.config
+E:\LTNC\ScrollablePictureBox Test - chuong 17\ScrollablePictureBox Test\obj\Debug\ScrollablePictureBox Test.exe
+E:\LTNC\ScrollablePictureBox Test - chuong 17\ScrollablePictureBox Test\obj\Debug\ScrollablePictureBox Test.pdb
