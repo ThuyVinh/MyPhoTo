@@ -7,7 +7,7 @@
     <ProjectGuid>{ECE1C98B-8E7F-4113-8176-9613D27576EE}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Manning.PhotoControl</RootNamespace>
+    <RootNamespace>PhotoControl</RootNamespace>
     <AssemblyName>PhotoControl</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>

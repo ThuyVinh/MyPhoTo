@@ -1,0 +1,13 @@
+E:\LTNC\MyAlbumExplorer\MyAlbumExplorer\bin\Debug\MyAlbumExplorer.exe.config
+E:\LTNC\MyAlbumExplorer\MyAlbumExplorer\obj\Debug\MyAlbumExplorer.csprojResolveAssemblyReference.cache
+E:\LTNC\MyAlbumExplorer\MyAlbumExplorer\obj\Debug\MyAlbumExplorer.ExplorerForm.resources
+E:\LTNC\MyAlbumExplorer\MyAlbumExplorer\obj\Debug\MyAlbumExplorer.Properties.Resources.resources
+E:\LTNC\MyAlbumExplorer\MyAlbumExplorer\obj\Debug\MyAlbumExplorer.csproj.GenerateResource.Cache
+E:\LTNC\MyAlbumExplorer\MyAlbumExplorer\bin\Debug\MyAlbumExplorer.exe
+E:\LTNC\MyAlbumExplorer\MyAlbumExplorer\bin\Debug\MyAlbumExplorer.pdb
+E:\LTNC\MyAlbumExplorer\MyAlbumExplorer\bin\Debug\MyPhotoControls.dll
+E:\LTNC\MyAlbumExplorer\MyAlbumExplorer\bin\Debug\PhotoAlbum.dll
+E:\LTNC\MyAlbumExplorer\MyAlbumExplorer\bin\Debug\MyPhotoControls.pdb
+E:\LTNC\MyAlbumExplorer\MyAlbumExplorer\bin\Debug\PhotoAlbum.pdb
+E:\LTNC\MyAlbumExplorer\MyAlbumExplorer\obj\Debug\MyAlbumExplorer.exe
+E:\LTNC\MyAlbumExplorer\MyAlbumExplorer\obj\Debug\MyAlbumExplorer.pdb
