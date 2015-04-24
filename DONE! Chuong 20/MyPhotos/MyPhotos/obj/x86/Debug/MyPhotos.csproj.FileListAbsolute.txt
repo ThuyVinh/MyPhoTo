@@ -1,0 +1,42 @@
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\MyPhotos\MyPhotos\bin\Debug\MyPhotos.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\MyPhotos\MyPhotos\bin\Debug\MyPhotos.pdb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\MyPhotos\MyPhotos\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\MyPhotos\MyPhotos\obj\x86\Debug\MyPhotos.Form1.resources
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\MyPhotos\MyPhotos\obj\x86\Debug\MyPhotos.Properties.Resources.resources
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\MyPhotos\MyPhotos\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\MyPhotos\MyPhotos\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\MyPhotos\MyPhotos\obj\x86\Debug\MyPhotos.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\MyPhotos\MyPhotos\obj\x86\Debug\MyPhotos.pdb
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\MyPhotos\MyPhotos\bin\Debug\PhotoAlbum.dll
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\MyPhotos\MyPhotos\bin\Debug\PhotoAlbum.pdb
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\MyPhotos\MyPhotos\bin\Debug\MyPhotoControls.dll
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\MyPhotos\MyPhotos\bin\Debug\MyPhotoControls.pdb
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\MyPhotos\MyPhotos\obj\x86\Debug\MyPhotos.SlideShowDialog.resources
+C:\Users\HP\Desktop\Source Code - Chuong 16\MyPhotos\MyPhotos\obj\x86\Debug\MyPhotos.exe
+C:\Users\HP\Desktop\Source Code - Chuong 16\MyPhotos\MyPhotos\obj\x86\Debug\MyPhotos.pdb
+C:\Users\HP\Desktop\Source Code - Chuong 16\MyPhotos\MyPhotos\bin\Debug\MyPhotos.exe
+C:\Users\HP\Desktop\Source Code - Chuong 16\MyPhotos\MyPhotos\bin\Debug\MyPhotos.pdb
+C:\Users\HP\Desktop\Source Code - Chuong 16\MyPhotos\MyPhotos\bin\Debug\MyPhotoControls.dll
+C:\Users\HP\Desktop\Source Code - Chuong 16\MyPhotos\MyPhotos\bin\Debug\PhotoAlbum.dll
+C:\Users\HP\Desktop\Source Code - Chuong 16\MyPhotos\MyPhotos\bin\Debug\MyPhotoControls.pdb
+C:\Users\HP\Desktop\Source Code - Chuong 16\MyPhotos\MyPhotos\bin\Debug\PhotoAlbum.pdb
+C:\Users\HP\Desktop\Source Code - Chuong 16\MyPhotos\MyPhotos\obj\x86\Debug\MyPhotos.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\Source Code - Chuong 16\MyPhotos\MyPhotos\obj\x86\Debug\MyPhotos.Form1.resources
+C:\Users\HP\Desktop\Source Code - Chuong 16\MyPhotos\MyPhotos\obj\x86\Debug\MyPhotos.ParentForm.resources
+C:\Users\HP\Desktop\Source Code - Chuong 16\MyPhotos\MyPhotos\obj\x86\Debug\MyPhotos.Properties.Resources.resources
+C:\Users\HP\Desktop\Source Code - Chuong 16\MyPhotos\MyPhotos\obj\x86\Debug\MyPhotos.SlideShowDialog.resources
+C:\Users\HP\Desktop\Source Code - Chuong 16\MyPhotos\MyPhotos\obj\x86\Debug\MyPhotos.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\DONE! Chuong 20\MyPhotos\MyPhotos\obj\x86\Debug\MyPhotos.exe
+C:\Users\HP\Desktop\DONE! Chuong 20\MyPhotos\MyPhotos\obj\x86\Debug\MyPhotos.pdb
+C:\Users\HP\Desktop\DONE! Chuong 20\MyPhotos\MyPhotos\bin\Debug\MyPhotos.exe
+C:\Users\HP\Desktop\DONE! Chuong 20\MyPhotos\MyPhotos\bin\Debug\MyPhotos.pdb
+C:\Users\HP\Desktop\DONE! Chuong 20\MyPhotos\MyPhotos\bin\Debug\MyPhotoControls.dll
+C:\Users\HP\Desktop\DONE! Chuong 20\MyPhotos\MyPhotos\bin\Debug\PhotoAlbum.dll
+C:\Users\HP\Desktop\DONE! Chuong 20\MyPhotos\MyPhotos\bin\Debug\MyPhotoControls.pdb
+C:\Users\HP\Desktop\DONE! Chuong 20\MyPhotos\MyPhotos\bin\Debug\PhotoAlbum.pdb
+C:\Users\HP\Desktop\DONE! Chuong 20\MyPhotos\MyPhotos\obj\x86\Debug\MyPhotos.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\DONE! Chuong 20\MyPhotos\MyPhotos\obj\x86\Debug\MyPhotos.Form1.resources
+C:\Users\HP\Desktop\DONE! Chuong 20\MyPhotos\MyPhotos\obj\x86\Debug\MyPhotos.ParentForm.resources
+C:\Users\HP\Desktop\DONE! Chuong 20\MyPhotos\MyPhotos\obj\x86\Debug\MyPhotos.Properties.Resources.resources
+C:\Users\HP\Desktop\DONE! Chuong 20\MyPhotos\MyPhotos\obj\x86\Debug\MyPhotos.SlideShowDialog.resources
+C:\Users\HP\Desktop\DONE! Chuong 20\MyPhotos\MyPhotos\obj\x86\Debug\MyPhotos.csproj.GenerateResource.Cache
