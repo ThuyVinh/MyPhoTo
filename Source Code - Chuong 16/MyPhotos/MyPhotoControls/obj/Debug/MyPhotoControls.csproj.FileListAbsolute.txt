@@ -1,0 +1,27 @@
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\MyPhotos\MyPhotoControls\bin\Debug\MyPhotoControls.dll
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\MyPhotos\MyPhotoControls\bin\Debug\MyPhotoControls.pdb
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\MyPhotos\MyPhotoControls\bin\Debug\PhotoAlbum.dll
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\MyPhotos\MyPhotoControls\bin\Debug\PhotoAlbum.pdb
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\MyPhotos\MyPhotoControls\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\MyPhotos\MyPhotoControls\obj\Debug\MyPhotoControls.PixelDialog.resources
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\MyPhotos\MyPhotoControls\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\MyPhotos\MyPhotoControls\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\MyPhotos\MyPhotoControls\obj\Debug\MyPhotoControls.dll
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\MyPhotos\MyPhotoControls\obj\Debug\MyPhotoControls.pdb
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\MyPhotos\MyPhotoControls\obj\Debug\MyPhotoControls.BaseEditDialog.resources
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\MyPhotos\MyPhotoControls\obj\Debug\MyPhotoControls.PhotoEditDialog.resources
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\MyPhotos\MyPhotoControls\obj\Debug\MyPhotoControls.AlbumEditDialog.resources
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\MyPhotos\MyPhotoControls\obj\Debug\MyPhotoControls.AlbumPasswordDialog.resources
+E:\LTNC\Source Code - Chuong 16\MyPhotos\MyPhotoControls\obj\Debug\MyPhotoControls.csprojResolveAssemblyReference.cache
+E:\LTNC\Source Code - Chuong 16\MyPhotos\MyPhotoControls\obj\Debug\MyPhotoControls.AlbumEditDialog.resources
+E:\LTNC\Source Code - Chuong 16\MyPhotos\MyPhotoControls\obj\Debug\MyPhotoControls.AlbumPasswordDialog.resources
+E:\LTNC\Source Code - Chuong 16\MyPhotos\MyPhotoControls\obj\Debug\MyPhotoControls.BaseEditDialog.resources
+E:\LTNC\Source Code - Chuong 16\MyPhotos\MyPhotoControls\obj\Debug\MyPhotoControls.PhotoEditDialog.resources
+E:\LTNC\Source Code - Chuong 16\MyPhotos\MyPhotoControls\obj\Debug\MyPhotoControls.PixelDialog.resources
+E:\LTNC\Source Code - Chuong 16\MyPhotos\MyPhotoControls\obj\Debug\MyPhotoControls.csproj.GenerateResource.Cache
+E:\LTNC\Source Code - Chuong 16\MyPhotos\MyPhotoControls\obj\Debug\MyPhotoControls.dll
+E:\LTNC\Source Code - Chuong 16\MyPhotos\MyPhotoControls\obj\Debug\MyPhotoControls.pdb
+E:\LTNC\Source Code - Chuong 16\MyPhotos\MyPhotoControls\bin\Debug\MyPhotoControls.dll
+E:\LTNC\Source Code - Chuong 16\MyPhotos\MyPhotoControls\bin\Debug\MyPhotoControls.pdb
+E:\LTNC\Source Code - Chuong 16\MyPhotos\MyPhotoControls\bin\Debug\PhotoAlbum.dll
+E:\LTNC\Source Code - Chuong 16\MyPhotos\MyPhotoControls\bin\Debug\PhotoAlbum.pdb

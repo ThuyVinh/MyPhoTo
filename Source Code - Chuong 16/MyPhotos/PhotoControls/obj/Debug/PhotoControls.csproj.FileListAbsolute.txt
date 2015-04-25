@@ -1,0 +1,5 @@
+E:\LTNC\Source Code - Chuong 16\MyPhotos\PhotoControls\bin\Debug\PhotoControls.dll
+E:\LTNC\Source Code - Chuong 16\MyPhotos\PhotoControls\bin\Debug\PhotoControls.pdb
+E:\LTNC\Source Code - Chuong 16\MyPhotos\PhotoControls\obj\Debug\PhotoControls.csprojResolveAssemblyReference.cache
+E:\LTNC\Source Code - Chuong 16\MyPhotos\PhotoControls\obj\Debug\PhotoControls.dll
+E:\LTNC\Source Code - Chuong 16\MyPhotos\PhotoControls\obj\Debug\PhotoControls.pdb
